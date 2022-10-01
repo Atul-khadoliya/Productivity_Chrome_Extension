@@ -50,9 +50,4 @@ It contains **four** features :
 * Web-sites added to the list are not gonna open until you Enable it.
 ![BlackList URLs-Screen](./images/Blocklist.png)
 
-## Authors
-- [Utkarsh Kumar](https://github.com/Utk0201)
-- [Nirav Gusai](https://github.com/Nirav1510)
-- [Utkarsh Patel](https://github.com/utkarshOEE)
-
 **Free Extension, Hell Yeah!**
